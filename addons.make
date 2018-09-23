@@ -1,3 +1,5 @@
 ofxDomemaster
 ofxHapPlayer
+ofxOsc
 ofxSyphon
+ofxXmlSettings
