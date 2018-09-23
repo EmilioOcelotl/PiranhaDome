@@ -1,0 +1,3 @@
+ofxDomemaster
+ofxHapPlayer
+ofxSyphon
